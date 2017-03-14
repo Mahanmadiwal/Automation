@@ -1,11 +1,10 @@
 package FirstGithub;
 
-public class Demo2
+public class thirdCommit
 {
 	public static void main(String[] args)
 	{
-		System.out.println("Second try on Github");
-		
+		System.out.println("hello");
 		
 	}
 
